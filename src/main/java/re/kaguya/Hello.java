@@ -7,8 +7,6 @@ public class Hello {
         System.out.println("黑巧:? m3,you w t a say? a y fk k l m ?");
         System.out.println("白巧(手拿鞭子):y~~~~ bro.....");
         System.out.println("黑巧:way can i say");
-        System.out.println("黑巧:way can i say");
-        System.out.println("黑巧:fuck!!!!!!!!!!!!!!!!");
         System.out.println("黑巧:fuck!!!!!!!!!!!!!!!!");
     }
 }
